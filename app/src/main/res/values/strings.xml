@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Runtime Permission</string>
+
+    <string name="permission_camera_rationale">Camera permission is needed to show the camera preview.</string>
+    <string name="permission_camera_denied">Camera permission was denied. Please consider granting it in order to access the camera!</string>
+    <string name="permission_camera_never_ask_again">Camera permission was denied with never ask again.</string>
+    <string name="button_allow">Allow</string>
+    <string name="button_deny">Deny</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="ok">Ok</string>
+    <string name="go_to_setting_and_allow_camera_permission">Go to setting and allow camera permission</string>
+</resources>
